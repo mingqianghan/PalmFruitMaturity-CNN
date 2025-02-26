@@ -9,5 +9,5 @@ A deep learning-based classification method for **palm fruit maturity** using **
 - **Evaluation metrics**: Accuracy, AUC, F1-score, ROC curves, and confusion matrices
 
 ## 📂 Dataset
-The dataset was obtained from [**IEEE DataPort**](https://ieee-dataport.org/open-access/date-fruit-dataset-automated-harvesting-and-visual-yield-estimation) and consists of images captured in **natural orchard environments**. The dataset was split into **80% training and 20% testing**.
+The original dataset can be found [here](https://ieee-dataport.org/open-access/date-fruit-dataset-automated-harvesting-and-visual-yield-estimation) and was modified for this study. The modified version, which can be downloaded [here](https://drive.google.com/file/d/1qTVoWL0EDdJx6Soj_4sPpOOAySKeJeBq/view?usp=drive_link), consists of images captured in natural orchard environments. The dataset was split into 80% for training and 20% for testing.
 
