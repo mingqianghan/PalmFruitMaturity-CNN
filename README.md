@@ -11,3 +11,18 @@ A deep learning-based classification method for **palm fruit maturity** using **
 ## 📂 Dataset
 The original dataset can be found [here](https://ieee-dataport.org/open-access/date-fruit-dataset-automated-harvesting-and-visual-yield-estimation) and was modified for this study. The modified version, which can be downloaded [here](https://drive.google.com/file/d/1qTVoWL0EDdJx6Soj_4sPpOOAySKeJeBq/view?usp=drive_link), consists of images captured in natural orchard environments. The dataset was split into 80% for training and 20% for testing.
 
+## 📖 Citation
+
+You can access the full paper [here](https://arxiv.org/abs/2502.20223).
+
+If you use this work, please cite:
+
+```bibtex
+@article{han2025deep,
+  title={Deep Convolutional Neural Networks for Palm Fruit Maturity Classification},
+  author={Han, Mingqiang and Yi, Chunlin},
+  journal={arXiv preprint arXiv:2502.20223},
+  year={2025},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
